@@ -1,0 +1,1 @@
+cp -rf test_posture ~/your_catkin_ws/
