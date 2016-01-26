@@ -1,15 +1,13 @@
+/******* output 3axis_posture_angle[deg] *******/
 #include "ros/ros.h"
 #include "posture_sensor.h"
 #include <stdio.h>
 
 void chatterCallback(const openreroc_posturesensor::posture_sensor msg)
 {
-  //printf("x:%f\n",msg_g.real_gx);
-  // printf("y:%f\n",msg_g.real_gy);
-  // printf("z:%f\n",msg_g.real_gz);
-  printf("x:%ftest\n",msg.roll);
-  printf("y:%ftest\n",msg.pitch);
-  printf("z:%ftest\n",msg.yaw);
+  printf("x:%f ",msg.roll);
+  printf("y:%f ",msg.pitch);
+  printf("z:%f \n",msg.yaw);
 }
 
 int main(int argc, char  **argv)
