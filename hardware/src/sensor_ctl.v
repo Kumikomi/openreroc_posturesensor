@@ -129,7 +129,7 @@ always @(posedge clk)begin
 			INIT_32: 										state_32 <= READY_RCV_32;
 			READY_RCV_32: if(1) 							state_32 <= RCV_DATA_32;
 			RCV_DATA_32: 									state_32 <= POSE_32;
-			POSE_32:	     if(arm_rd_en_a)				state_32 <= READY_SND_32;
+			POSE_32:	     if(arm_rd_en_a || arm_rd_en_g)				state_32 <= READY_SND_32;
 //			POSE_32:	     if(1)							state_32 <= READY_SND_32;
 			READY_SND_32: if(data_full_32 == 0)		state_32 <= SND_DATA_32_ax;
 //			READY_SND_32: if(1)							state_32 <= SND_DATA_32_x;

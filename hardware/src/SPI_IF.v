@@ -18,7 +18,7 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module SPI_interface( 
+module SPI_IF( 
 	input clk,
 	input rst,
 	input [6:0] mpu_address,		//from MPU9250.v

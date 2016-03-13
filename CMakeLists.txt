@@ -49,6 +49,8 @@ add_message_files(
    posture_sensor.msg
    accel_sensor.msg
    gyro_sensor.msg
+   accel_angle.msg
+   gyro_angle.msg
  )
 
 ## Generate services in the 'srv' folder
@@ -173,3 +175,8 @@ add_executable(output_accel src/sample_output_accel.cpp)
 target_link_libraries(output_accel ${catkin_LIBRARIES})
 add_executable(output_gyro src/sample_output_gyro.cpp)
 target_link_libraries(output_gyro ${catkin_LIBRARIES})
+
+add_executable(output_gyro_angle src/output_gyro_angle.cpp)
+target_link_libraries(output_gyro_angle ${catkin_LIBRARIES})
+add_executable(output_accel_angle src/output_accel_angle.cpp)
+target_link_libraries(output_accel_angle ${catkin_LIBRARIES})

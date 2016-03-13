@@ -61,7 +61,7 @@ module MPU_accel_controller(
 	wire [7:0] mpu_read_data;				//8bit SPI_IN data
 
 	reg [31:0] IDLEcounter = 0;			//for IDLE
-	parameter MAX_IDLEcounter = 32'd1000000;
+	parameter MAX_IDLEcounter = 32'd10;
 	reg [4:0] state;
 	reg [5:0] read_counter;			// high or low , x or y or z
 	
@@ -75,7 +75,7 @@ module MPU_accel_controller(
 	
 	reg [7:0] whoami;
 	
-//*******no top.v **********************************	
+//*****************************************	
 //for SPI_interface instance
 SPI_IF_accel SPI_IF_accel( 
 	.clk(clk), 
@@ -91,13 +91,7 @@ SPI_IF_accel SPI_IF_accel(
 	.SPI_DO_a(SPI_DO_a),						//Master out Sleve in						
 	.SPI_DI_a(SPI_DI_a)						//Master in Slave out
 ); 
-//********no top.v *************************************
-
-////MPU setup
-//initial begin
-//// write 0x00 to address "0x6B"
-//// write 0x02 to address "0x37"
-//end
+//*********************************************
 
 //for state trans
 always@ (posedge clk)
@@ -123,8 +117,7 @@ begin
 			6:if(read_counter == 18 && mpu_busy == 0) state <= 10;		//read accel_z
 
 			10:if(IDLEcounter == MAX_IDLEcounter) state <= 3;
-			
-			//12: state <= 8;
+
 			default state <= 0;
 		endcase
 	end
@@ -195,9 +188,6 @@ begin
 				mpu_start <= 0;
 			   end
 			  
-			  
-
-
 			3:begin			//loop start 
 					arm_read_enable_a <= 0;
 					accel_x_H <= 0;
@@ -458,12 +448,15 @@ begin
 //						end
 //					endcase
 //			end
-
-
-			
-						
+	
+//	
+//			10:begin //IDLE state test
+//					IDLEcounter <= IDLEcounter + 1;
+//					arm_read_enable_a <= 1;
+//				end
+	
 			10:begin //IDLE state
-				if(IDLEcounter == (MAX_IDLEcounter -1000))//32'd80000)
+				if(IDLEcounter == (MAX_IDLEcounter - 5))//100))
 				begin
 						arm_read_enable_a <= 1;
 						IDLEcounter <= IDLEcounter + 1;		

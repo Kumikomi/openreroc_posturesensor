@@ -5,9 +5,9 @@
 
 void chatterCallback(const openreroc_posturesensor::posture_sensor msg)
 {
-  printf("x:%f ",msg.roll);
-  printf("y:%f ",msg.pitch);
-  printf("z:%f \n",msg.yaw);
+  printf("x:%f\n",msg.roll);
+  printf("y:%f\n",msg.pitch);
+  printf("z:%f\n",msg.yaw);
 }
 
 int main(int argc, char  **argv)

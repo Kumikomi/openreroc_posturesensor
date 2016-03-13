@@ -1,0 +1,1509 @@
+accel_x:0.556922
+ accel_y:1.435911
+accel_z:1.540173
+accel_x:0.565964
+ accel_y:1.439387
+accel_z:1.546702
+accel_x:0.508946
+ accel_y:1.432815
+accel_z:1.520557
+accel_x:0.518986
+ accel_y:1.444031
+accel_z:1.534499
+accel_x:0.515668
+ accel_y:1.453428
+accel_z:1.542233
+accel_x:0.516898
+ accel_y:1.469134
+accel_z:1.557452
+accel_x:0.521902
+ accel_y:1.473444
+accel_z:1.563182
+accel_x:0.527753
+ accel_y:1.489443
+accel_z:1.580218
+accel_x:0.542174
+ accel_y:1.492300
+accel_z:1.587780
+accel_x:0.548658
+ accel_y:1.500924
+accel_z:1.598104
+accel_x:0.560133
+ accel_y:1.513404
+accel_z:1.613780
+accel_x:0.561958
+ accel_y:1.530238
+accel_z:1.630207
+accel_x:0.550426
+ accel_y:1.543528
+accel_z:1.638778
+accel_x:0.501566
+ accel_y:1.507478
+accel_z:1.588765
+accel_x:0.521786
+ accel_y:1.518026
+accel_z:1.605238
+accel_x:0.471584
+ accel_y:1.501385
+accel_z:1.573738
+accel_x:0.502766
+ accel_y:1.493440
+accel_z:1.575834
+accel_x:0.454625
+ accel_y:1.493056
+accel_z:1.560767
+accel_x:0.482040
+ accel_y:1.473667
+accel_z:1.550535
+accel_x:0.493186
+ accel_y:1.463999
+accel_z:1.544873
+accel_x:0.532136
+ accel_y:1.403616
+accel_z:1.501139
+accel_x:0.525028
+ accel_y:1.420292
+accel_z:1.514265
+accel_x:0.523808
+ accel_y:1.444200
+accel_z:1.536296
+accel_x:0.495070
+ accel_y:1.447479
+accel_z:1.529834
+accel_x:0.530467
+ accel_y:1.459275
+accel_z:1.552740
+accel_x:0.507794
+ accel_y:1.451628
+accel_z:1.537917
+accel_x:0.515236
+ accel_y:1.439401
+accel_z:1.528874
+accel_x:0.496105
+ accel_y:1.463912
+accel_z:1.545725
+accel_x:0.505916
+ accel_y:1.459459
+accel_z:1.544695
+accel_x:0.479646
+ accel_y:1.452423
+accel_z:1.529605
+accel_x:0.452607
+ accel_y:1.464037
+accel_z:1.532431
+accel_x:0.425611
+ accel_y:1.458223
+accel_z:1.519091
+accel_x:0.463667
+ accel_y:1.428092
+accel_z:1.501507
+accel_x:0.495584
+ accel_y:1.440902
+accel_z:1.523780
+accel_x:0.446958
+ accel_y:1.454042
+accel_z:1.521215
+accel_x:0.473726
+ accel_y:1.454604
+accel_z:1.529832
+accel_x:0.473424
+ accel_y:1.449027
+accel_z:1.524436
+accel_x:0.440574
+ accel_y:1.456351
+accel_z:1.521561
+accel_x:0.437035
+ accel_y:1.436376
+accel_z:1.501418
+accel_x:0.470007
+ accel_y:1.436812
+accel_z:1.511763
+accel_x:0.498386
+ accel_y:1.435961
+accel_z:1.520025
+accel_x:0.501041
+ accel_y:1.437752
+accel_z:1.522590
+accel_x:0.453021
+ accel_y:1.441278
+accel_z:1.510826
+accel_x:0.479186
+ accel_y:1.449822
+accel_z:1.526991
+accel_x:0.487955
+ accel_y:1.465518
+accel_z:1.544651
+accel_x:0.444113
+ accel_y:1.474836
+accel_z:1.540281
+accel_x:0.455017
+ accel_y:1.470545
+accel_z:1.539361
+accel_x:0.409134
+ accel_y:1.465900
+accel_z:1.521948
+accel_x:0.431651
+ accel_y:1.472172
+accel_z:1.534175
+accel_x:0.453171
+ accel_y:1.488191
+accel_z:1.555689
+accel_x:0.472534
+ accel_y:1.503893
+accel_z:1.576416
+accel_x:0.506221
+ accel_y:1.496838
+accel_z:1.580158
+accel_x:0.496252
+ accel_y:1.510847
+accel_z:1.590296
+accel_x:0.494554
+ accel_y:1.494121
+accel_z:1.573878
+accel_x:0.475027
+ accel_y:1.399577
+accel_z:1.478024
+accel_x:0.494805
+ accel_y:1.402406
+accel_z:1.487169
+accel_x:0.491323
+ accel_y:1.396085
+accel_z:1.480050
+accel_x:0.452291
+ accel_y:1.399568
+accel_z:1.470863
+accel_x:0.483933
+ accel_y:1.427176
+accel_z:1.507023
+accel_x:0.501620
+ accel_y:1.423594
+accel_z:1.509420
+accel_x:0.532308
+ accel_y:1.452541
+accel_z:1.547045
+accel_x:0.648675
+ accel_y:1.395195
+accel_z:1.538673
+accel_x:0.585878
+ accel_y:1.419570
+accel_z:1.535764
+accel_x:0.598941
+ accel_y:1.427824
+accel_z:1.548406
+accel_x:0.594533
+ accel_y:1.439200
+accel_z:1.557213
+accel_x:0.594609
+ accel_y:1.460246
+accel_z:1.576715
+accel_x:0.578280
+ accel_y:1.465133
+accel_z:1.575172
+accel_x:0.571842
+ accel_y:1.479436
+accel_z:1.586152
+accel_x:0.555190
+ accel_y:1.489419
+accel_z:1.589573
+accel_x:0.573846
+ accel_y:1.491596
+accel_z:1.598220
+accel_x:0.569174
+ accel_y:1.472220
+accel_z:1.578459
+accel_x:0.561047
+ accel_y:1.484764
+accel_z:1.587274
+accel_x:0.583214
+ accel_y:1.460519
+accel_z:1.572706
+accel_x:0.578824
+ accel_y:1.462793
+accel_z:1.573196
+accel_x:0.596402
+ accel_y:1.463382
+accel_z:1.580296
+accel_x:0.613912
+ accel_y:1.478222
+accel_z:1.600686
+accel_x:0.624091
+ accel_y:1.456039
+accel_z:1.584205
+accel_x:0.566181
+ accel_y:1.464624
+accel_z:1.570294
+accel_x:0.589215
+ accel_y:1.460055
+accel_z:1.574511
+accel_x:0.612851
+ accel_y:1.469895
+accel_z:1.592590
+accel_x:0.621929
+ accel_y:1.450243
+accel_z:1.578026
+accel_x:0.705385
+ accel_y:1.394196
+accel_z:1.562545
+accel_x:0.696931
+ accel_y:1.397840
+accel_z:1.562006
+accel_x:0.690732
+ accel_y:1.416087
+accel_z:1.575629
+accel_x:0.663569
+ accel_y:1.420381
+accel_z:1.567797
+accel_x:0.679605
+ accel_y:1.437757
+accel_z:1.590347
+accel_x:0.692810
+ accel_y:1.438798
+accel_z:1.596974
+accel_x:0.680254
+ accel_y:1.454280
+accel_z:1.605576
+accel_x:0.751361
+ accel_y:1.396768
+accel_z:1.586105
+accel_x:0.676597
+ accel_y:1.418415
+accel_z:1.571583
+accel_x:0.691400
+ accel_y:1.442884
+accel_z:1.600047
+accel_x:0.668098
+ accel_y:1.450968
+accel_z:1.597452
+accel_x:0.644529
+ accel_y:1.430138
+accel_z:1.568720
+accel_x:0.647649
+ accel_y:1.410163
+accel_z:1.551831
+accel_x:0.623261
+ accel_y:1.429480
+accel_z:1.559497
+accel_x:0.639226
+ accel_y:1.441797
+accel_z:1.577201
+accel_x:0.586663
+ accel_y:1.436007
+accel_z:1.551268
+accel_x:0.529986
+ accel_y:1.414469
+accel_z:1.510537
+accel_x:0.559169
+ accel_y:1.437469
+accel_z:1.542439
+accel_x:0.513458
+ accel_y:1.442876
+accel_z:1.531549
+accel_x:0.631732
+ accel_y:1.394584
+accel_z:1.531047
+accel_x:0.648212
+ accel_y:1.423926
+accel_z:1.564582
+accel_x:0.649527
+ accel_y:1.439429
+accel_z:1.579246
+accel_x:0.650603
+ accel_y:1.454497
+accel_z:1.593432
+accel_x:0.659543
+ accel_y:1.458399
+accel_z:1.600660
+accel_x:0.643531
+ accel_y:1.462296
+accel_z:1.597693
+accel_x:0.583885
+ accel_y:1.473231
+accel_z:1.584766
+accel_x:0.576926
+ accel_y:1.467957
+accel_z:1.577304
+accel_x:0.582643
+ accel_y:1.480382
+accel_z:1.590960
+accel_x:0.583783
+ accel_y:1.480875
+accel_z:1.591838
+accel_x:0.683206
+ accel_y:1.419534
+accel_z:1.575449
+accel_x:0.663419
+ accel_y:1.402944
+accel_z:1.551951
+accel_x:0.661931
+ accel_y:1.423386
+accel_z:1.569828
+accel_x:0.647273
+ accel_y:1.423270
+accel_z:1.563596
+accel_x:0.658142
+ accel_y:1.420028
+accel_z:1.565187
+accel_x:0.591402
+ accel_y:1.417392
+accel_z:1.535871
+accel_x:0.588992
+ accel_y:1.418817
+accel_z:1.536260
+accel_x:0.600297
+ accel_y:1.445716
+accel_z:1.565440
+accel_x:0.570113
+ accel_y:1.470087
+accel_z:1.576809
+accel_x:0.519104
+ accel_y:1.466547
+accel_z:1.555746
+accel_x:0.552186
+ accel_y:1.487357
+accel_z:1.586593
+accel_x:0.582068
+ accel_y:1.491502
+accel_z:1.601104
+accel_x:0.605993
+ accel_y:1.497191
+accel_z:1.615232
+accel_x:0.546226
+ accel_y:1.503647
+accel_z:1.599829
+accel_x:0.548416
+ accel_y:1.516943
+accel_z:1.613077
+accel_x:0.577124
+ accel_y:1.522992
+accel_z:1.628721
+accel_x:0.597609
+ accel_y:1.532549
+accel_z:1.644997
+accel_x:0.541064
+ accel_y:1.534538
+accel_z:1.627174
+accel_x:0.552992
+ accel_y:1.536141
+accel_z:1.632689
+accel_x:0.578805
+ accel_y:1.522157
+accel_z:1.628538
+accel_x:0.587087
+ accel_y:1.519901
+accel_z:1.629396
+accel_x:0.611989
+ accel_y:1.539260
+accel_z:1.656512
+accel_x:0.560705
+ accel_y:1.500207
+accel_z:1.601610
+accel_x:0.555834
+ accel_y:1.475520
+accel_z:1.576784
+accel_x:0.564924
+ accel_y:1.464117
+accel_z:1.569368
+accel_x:0.570548
+ accel_y:1.462264
+accel_z:1.569676
+accel_x:0.520984
+ accel_y:1.458415
+accel_z:1.548715
+accel_x:0.499368
+ accel_y:1.461871
+accel_z:1.544844
+accel_x:0.534489
+ accel_y:1.456584
+accel_z:1.551593
+accel_x:0.557872
+ accel_y:1.435144
+accel_z:1.539802
+accel_x:0.513474
+ accel_y:1.424134
+accel_z:1.513909
+accel_x:0.525688
+ accel_y:1.418567
+accel_z:1.512876
+accel_x:0.520624
+ accel_y:1.400271
+accel_z:1.493960
+accel_x:0.500991
+ accel_y:1.381720
+accel_z:1.469775
+accel_x:0.512953
+ accel_y:1.383943
+accel_z:1.475981
+accel_x:0.523580
+ accel_y:1.376135
+accel_z:1.472409
+accel_x:0.544153
+ accel_y:1.376447
+accel_z:1.480143
+accel_x:0.557063
+ accel_y:1.364032
+accel_z:1.473438
+accel_x:0.574192
+ accel_y:1.397609
+accel_z:1.511006
+accel_x:0.621073
+ accel_y:1.349133
+accel_z:1.485273
+accel_x:0.586196
+ accel_y:1.368355
+accel_z:1.488674
+accel_x:0.529116
+ accel_y:1.372022
+accel_z:1.470549
+accel_x:0.522009
+ accel_y:1.372234
+accel_z:1.468204
+accel_x:0.473208
+ accel_y:1.393388
+accel_z:1.471578
+accel_x:0.505348
+ accel_y:1.394246
+accel_z:1.483038
+accel_x:0.516910
+ accel_y:1.384557
+accel_z:1.477937
+accel_x:0.474056
+ accel_y:1.383018
+accel_z:1.462038
+accel_x:0.484643
+ accel_y:1.387766
+accel_z:1.469988
+accel_x:0.451256
+ accel_y:1.389721
+accel_z:1.461176
+accel_x:0.433243
+ accel_y:1.399423
+accel_z:1.464977
+accel_x:0.454668
+ accel_y:1.409336
+accel_z:1.480889
+accel_x:0.422100
+ accel_y:1.415976
+accel_z:1.477575
+accel_x:0.503790
+ accel_y:1.360949
+accel_z:1.451235
+accel_x:0.620202
+ accel_y:1.310915
+accel_z:1.450270
+accel_x:0.627044
+ accel_y:1.340466
+accel_z:1.479925
+accel_x:0.630322
+ accel_y:1.365321
+accel_z:1.503847
+accel_x:0.650892
+ accel_y:1.379875
+accel_z:1.525739
+accel_x:0.666813
+ accel_y:1.394397
+accel_z:1.545690
+accel_x:0.606268
+ accel_y:1.408172
+accel_z:1.533185
+accel_x:0.619535
+ accel_y:1.380249
+accel_z:1.512964
+accel_x:0.623085
+ accel_y:1.299346
+accel_z:1.441065
+accel_x:0.620419
+ accel_y:1.315622
+accel_z:1.454618
+accel_x:0.561603
+ accel_y:1.323235
+accel_z:1.437519
+accel_x:0.584919
+ accel_y:1.359379
+accel_z:1.479922
+accel_x:0.605941
+ accel_y:1.389291
+accel_z:1.515730
+accel_x:0.606235
+ accel_y:1.388395
+accel_z:1.515027
+accel_x:0.599700
+ accel_y:1.408936
+accel_z:1.531301
+accel_x:0.585761
+ accel_y:1.399232
+accel_z:1.516939
+accel_x:0.672704
+ accel_y:1.348529
+accel_z:1.507059
+accel_x:0.644775
+ accel_y:1.374514
+accel_z:1.518283
+accel_x:0.659871
+ accel_y:1.389504
+accel_z:1.538286
+accel_x:0.650674
+ accel_y:1.401891
+accel_z:1.545589
+accel_x:0.630158
+ accel_y:1.412817
+accel_z:1.547034
+accel_x:0.645308
+ accel_y:1.398231
+accel_z:1.540013
+accel_x:0.634756
+ accel_y:1.418953
+accel_z:1.554512
+accel_x:0.637567
+ accel_y:1.431270
+accel_z:1.566906
+accel_x:0.657383
+ accel_y:1.440469
+accel_z:1.583441
+accel_x:0.653629
+ accel_y:1.464891
+accel_z:1.604158
+accel_x:0.647639
+ accel_y:1.457395
+accel_z:1.594872
+accel_x:0.620729
+ accel_y:1.472357
+accel_z:1.597908
+accel_x:0.636815
+ accel_y:1.459857
+accel_z:1.592762
+accel_x:0.646226
+ accel_y:1.468239
+accel_z:1.604219
+accel_x:0.628976
+ accel_y:1.480983
+accel_z:1.609067
+accel_x:0.648441
+ accel_y:1.480097
+accel_z:1.615968
+accel_x:0.645655
+ accel_y:1.499400
+accel_z:1.632562
+accel_x:0.631080
+ accel_y:1.514255
+accel_z:1.640553
+accel_x:0.640766
+ accel_y:1.524599
+accel_z:1.653837
+accel_x:0.703697
+ accel_y:1.465590
+accel_z:1.625841
+accel_x:0.671125
+ accel_y:1.485076
+accel_z:1.629742
+accel_x:0.652717
+ accel_y:1.490712
+accel_z:1.627407
+accel_x:0.644169
+ accel_y:1.492909
+accel_z:1.626013
+accel_x:0.641705
+ accel_y:1.506641
+accel_z:1.637663
+accel_x:0.658231
+ accel_y:1.490310
+accel_z:1.629260
+accel_x:0.595323
+ accel_y:1.462624
+accel_z:1.579188
+accel_x:0.577545
+ accel_y:1.449709
+accel_z:1.560563
+accel_x:0.527190
+ accel_y:1.430825
+accel_z:1.524895
+accel_x:0.537831
+ accel_y:1.419950
+accel_z:1.518433
+accel_x:0.543284
+ accel_y:1.426065
+accel_z:1.526086
+accel_x:0.555127
+ accel_y:1.436142
+accel_z:1.539739
+accel_x:0.564491
+ accel_y:1.431860
+accel_z:1.539157
+accel_x:0.532289
+ accel_y:1.426062
+accel_z:1.522203
+accel_x:0.501076
+ accel_y:1.422375
+accel_z:1.508089
+accel_x:0.458486
+ accel_y:1.420945
+accel_z:1.493111
+accel_x:0.448375
+ accel_y:1.415533
+accel_z:1.484876
+accel_x:0.476255
+ accel_y:1.419719
+accel_z:1.497503
+accel_x:0.502698
+ accel_y:1.412686
+accel_z:1.499497
+accel_x:0.498427
+ accel_y:1.420117
+accel_z:1.505079
+accel_x:0.498529
+ accel_y:1.426579
+accel_z:1.511212
+accel_x:0.524034
+ accel_y:1.440088
+accel_z:1.532508
+accel_x:0.485912
+ accel_y:1.433074
+accel_z:1.513245
+accel_x:0.492604
+ accel_y:1.420680
+accel_z:1.503692
+accel_x:0.513545
+ accel_y:1.427350
+accel_z:1.516959
+accel_x:0.462950
+ accel_y:1.436090
+accel_z:1.508896
+accel_x:0.496113
+ accel_y:1.447600
+accel_z:1.530287
+accel_x:0.503037
+ accel_y:1.448262
+accel_z:1.533172
+accel_x:0.524221
+ accel_y:1.469490
+accel_z:1.560234
+accel_x:0.483369
+ accel_y:1.472866
+accel_z:1.550188
+accel_x:0.509033
+ accel_y:1.481781
+accel_z:1.566813
+accel_x:0.510754
+ accel_y:1.484753
+accel_z:1.570184
+accel_x:0.465934
+ accel_y:1.453104
+accel_z:1.526008
+accel_x:0.504232
+ accel_y:1.445630
+accel_z:1.531080
+accel_x:0.488236
+ accel_y:1.466164
+accel_z:1.545352
+accel_x:0.512104
+ accel_y:1.477222
+accel_z:1.563506
+accel_x:0.517756
+ accel_y:1.477206
+accel_z:1.565352
+accel_x:0.485751
+ accel_y:1.485550
+accel_z:1.562984
+accel_x:0.487218
+ accel_y:1.483123
+accel_z:1.561135
+accel_x:0.441909
+ accel_y:1.487283
+accel_z:1.551575
+accel_x:0.455517
+ accel_y:1.490523
+accel_z:1.558605
+accel_x:0.465248
+ accel_y:1.492623
+accel_z:1.563483
+accel_x:0.467399
+ accel_y:1.482742
+accel_z:1.554697
+accel_x:0.463887
+ accel_y:1.452091
+accel_z:1.524418
+accel_x:0.504251
+ accel_y:1.395186
+accel_z:1.483547
+accel_x:0.540630
+ accel_y:1.340417
+accel_z:1.445374
+accel_x:0.494229
+ accel_y:1.343522
+accel_z:1.431574
+accel_x:0.547416
+ accel_y:1.306905
+accel_z:1.416958
+accel_x:0.570634
+ accel_y:1.330906
+accel_z:1.448120
+accel_x:0.556858
+ accel_y:1.360958
+accel_z:1.470514
+accel_x:0.511407
+ accel_y:1.377744
+accel_z:1.469631
+accel_x:0.500872
+ accel_y:1.385815
+accel_z:1.473585
+accel_x:0.527572
+ accel_y:1.399723
+accel_z:1.495883
+accel_x:0.638750
+ accel_y:1.347503
+accel_z:1.491280
+accel_x:0.606305
+ accel_y:1.368381
+accel_z:1.496734
+accel_x:0.572938
+ accel_y:1.395072
+accel_z:1.508183
+accel_x:0.534788
+ accel_y:1.401614
+accel_z:1.500211
+accel_x:0.519240
+ accel_y:1.416888
+accel_z:1.509070
+accel_x:0.515929
+ accel_y:1.439865
+accel_z:1.529544
+accel_x:0.483912
+ accel_y:1.443482
+accel_z:1.522468
+accel_x:0.502814
+ accel_y:1.453963
+accel_z:1.538486
+accel_x:0.615657
+ accel_y:1.399598
+accel_z:1.529072
+accel_x:0.633626
+ accel_y:1.387793
+accel_z:1.525650
+accel_x:0.645753
+ accel_y:1.369058
+accel_z:1.513762
+accel_x:0.660706
+ accel_y:1.369687
+accel_z:1.520770
+accel_x:0.659375
+ accel_y:1.359519
+accel_z:1.511037
+accel_x:0.636511
+ accel_y:1.348771
+accel_z:1.491469
+accel_x:0.639220
+ accel_y:1.370923
+accel_z:1.512676
+accel_x:0.590369
+ accel_y:1.389385
+accel_z:1.509656
+accel_x:0.602954
+ accel_y:1.411291
+accel_z:1.534745
+accel_x:0.585811
+ accel_y:1.441438
+accel_z:1.555976
+accel_x:0.533177
+ accel_y:1.465025
+accel_z:1.559070
+accel_x:0.546051
+ accel_y:1.457797
+accel_z:1.556751
+accel_x:0.529248
+ accel_y:1.475260
+accel_z:1.567361
+accel_x:0.605809
+ accel_y:1.417014
+accel_z:1.541130
+accel_x:0.708306
+ accel_y:1.364298
+accel_z:1.537269
+accel_x:0.795544
+ accel_y:1.316120
+accel_z:1.537948
+accel_x:0.795749
+ accel_y:1.310251
+accel_z:1.533034
+accel_x:0.799791
+ accel_y:1.307354
+accel_z:1.532665
+accel_x:0.783129
+ accel_y:1.301935
+accel_z:1.519387
+accel_x:0.709189
+ accel_y:1.310115
+accel_z:1.489807
+accel_x:0.666500
+ accel_y:1.310982
+accel_z:1.470732
+accel_x:0.678157
+ accel_y:1.345936
+accel_z:1.507186
+accel_x:0.617794
+ accel_y:1.358134
+accel_z:1.492093
+accel_x:0.624878
+ accel_y:1.377605
+accel_z:1.512752
+accel_x:0.562998
+ accel_y:1.399554
+accel_z:1.508590
+accel_x:0.591547
+ accel_y:1.409204
+accel_z:1.528374
+accel_x:0.610673
+ accel_y:1.416884
+accel_z:1.542930
+accel_x:0.619890
+ accel_y:1.409137
+accel_z:1.539508
+accel_x:0.618652
+ accel_y:1.400550
+accel_z:1.531151
+accel_x:0.614795
+ accel_y:1.414260
+accel_z:1.542160
+accel_x:0.628974
+ accel_y:1.387845
+accel_z:1.523771
+accel_x:0.644056
+ accel_y:1.380756
+accel_z:1.523632
+accel_x:0.592505
+ accel_y:1.379990
+accel_z:1.501856
+accel_x:0.533803
+ accel_y:1.381215
+accel_z:1.480814
+accel_x:0.554424
+ accel_y:1.366973
+accel_z:1.475167
+accel_x:0.519863
+ accel_y:1.392575
+accel_z:1.486482
+accel_x:0.540619
+ accel_y:1.417775
+accel_z:1.517390
+accel_x:0.573157
+ accel_y:1.362997
+accel_z:1.478646
+accel_x:0.523423
+ accel_y:1.358279
+accel_z:1.455677
+accel_x:0.472147
+ accel_y:1.382472
+accel_z:1.460904
+accel_x:0.507069
+ accel_y:1.404836
+accel_z:1.493582
+accel_x:0.510219
+ accel_y:1.397725
+accel_z:1.487972
+accel_x:0.514513
+ accel_y:1.421156
+accel_z:1.511462
+accel_x:0.502379
+ accel_y:1.433181
+accel_z:1.518716
+accel_x:0.487430
+ accel_y:1.403748
+accel_z:1.485998
+accel_x:0.508797
+ accel_y:1.403773
+accel_z:1.493170
+accel_x:0.530810
+ accel_y:1.394578
+accel_z:1.492219
+accel_x:0.520922
+ accel_y:1.390043
+accel_z:1.484482
+accel_x:0.493359
+ accel_y:1.389177
+accel_z:1.474216
+accel_x:0.527801
+ accel_y:1.384344
+accel_z:1.481584
+accel_x:0.494721
+ accel_y:1.399423
+accel_z:1.484329
+accel_x:0.524688
+ accel_y:1.400894
+accel_z:1.495965
+accel_x:0.546314
+ accel_y:1.410392
+accel_z:1.512542
+accel_x:0.492370
+ accel_y:1.414207
+accel_z:1.497500
+accel_x:0.507881
+ accel_y:1.421291
+accel_z:1.509343
+accel_x:0.509746
+ accel_y:1.416914
+accel_z:1.505853
+accel_x:0.512840
+ accel_y:1.430665
+accel_z:1.519841
+accel_x:0.600324
+ accel_y:1.379400
+accel_z:1.504418
+accel_x:0.615702
+ accel_y:1.388257
+accel_z:1.518715
+accel_x:0.637826
+ accel_y:1.414190
+accel_z:1.551425
+accel_x:0.626723
+ accel_y:1.428024
+accel_z:1.559550
+accel_x:0.638346
+ accel_y:1.436568
+accel_z:1.572064
+accel_x:0.724136
+ accel_y:1.395401
+accel_z:1.572172
+accel_x:0.694863
+ accel_y:1.408195
+accel_z:1.570364
+accel_x:0.776380
+ accel_y:1.356417
+accel_z:1.562964
+accel_x:0.703283
+ accel_y:1.379519
+accel_z:1.548506
+accel_x:0.698982
+ accel_y:1.369588
+accel_z:1.537704
+accel_x:0.640380
+ accel_y:1.381664
+accel_z:1.522905
+accel_x:0.732815
+ accel_y:1.331795
+accel_z:1.520161
+accel_x:0.708090
+ accel_y:1.328017
+accel_z:1.505058
+accel_x:0.704716
+ accel_y:1.347579
+accel_z:1.520781
+accel_x:0.709659
+ accel_y:1.346157
+accel_z:1.521821
+accel_x:0.711382
+ accel_y:1.348852
+accel_z:1.525010
+accel_x:0.709213
+ accel_y:1.346497
+accel_z:1.521915
+accel_x:0.640361
+ accel_y:1.346567
+accel_z:1.491126
+accel_x:0.623552
+ accel_y:1.346758
+accel_z:1.484156
+accel_x:0.625867
+ accel_y:1.354903
+accel_z:1.492521
+accel_x:0.623446
+ accel_y:1.296642
+accel_z:1.438783
+accel_x:0.697338
+ accel_y:1.253755
+accel_z:1.434691
+accel_x:0.628051
+ accel_y:1.290735
+accel_z:1.435472
+accel_x:0.621968
+ accel_y:1.296642
+accel_z:1.438144
+accel_x:0.621764
+ accel_y:1.313847
+accel_z:1.453588
+accel_x:0.589833
+ accel_y:1.311394
+accel_z:1.437977
+accel_x:0.611841
+ accel_y:1.334263
+accel_z:1.467904
+accel_x:0.611358
+ accel_y:1.354558
+accel_z:1.486178
+accel_x:0.598919
+ accel_y:1.364996
+accel_z:1.490656
+accel_x:0.550502
+ accel_y:1.366843
+accel_z:1.473576
+accel_x:0.558978
+ accel_y:1.378899
+accel_z:1.487931
+accel_x:0.556552
+ accel_y:1.303468
+accel_z:1.417352
+accel_x:0.650390
+ accel_y:1.263790
+accel_z:1.421376
+accel_x:0.648862
+ accel_y:1.283260
+accel_z:1.438026
+accel_x:0.648704
+ accel_y:1.319387
+accel_z:1.470288
+accel_x:0.603219
+ accel_y:1.348492
+accel_z:1.477308
+accel_x:0.652428
+ accel_y:1.298332
+accel_z:1.453091
+accel_x:0.641132
+ accel_y:1.314004
+accel_z:1.462122
+accel_x:0.612324
+ accel_y:1.331185
+accel_z:1.465308
+accel_x:0.630810
+ accel_y:1.326649
+accel_z:1.469033
+accel_x:0.629723
+ accel_y:1.336828
+accel_z:1.477770
+accel_x:0.615422
+ accel_y:1.354352
+accel_z:1.487667
+accel_x:0.585006
+ accel_y:1.355242
+accel_z:1.476158
+accel_x:0.598181
+ accel_y:1.372604
+accel_z:1.497331
+accel_x:0.622239
+ accel_y:1.372209
+accel_z:1.506747
+accel_x:0.603147
+ accel_y:1.365733
+accel_z:1.493033
+accel_x:0.598931
+ accel_y:1.296800
+accel_z:1.428472
+accel_x:0.592466
+ accel_y:1.237579
+accel_z:1.372125
+accel_x:0.593860
+ accel_y:1.268766
+accel_z:1.400911
+accel_x:0.607438
+ accel_y:1.308064
+accel_z:1.442269
+accel_x:0.566005
+ accel_y:1.309859
+accel_z:1.426957
+accel_x:0.537280
+ accel_y:1.327225
+accel_z:1.431886
+accel_x:0.484268
+ accel_y:1.347261
+accel_z:1.431682
+accel_x:0.488358
+ accel_y:1.370065
+accel_z:1.454531
+accel_x:0.460582
+ accel_y:1.380809
+accel_z:1.455628
+accel_x:0.455068
+ accel_y:1.369738
+accel_z:1.443381
+accel_x:0.456832
+ accel_y:1.371904
+accel_z:1.445993
+accel_x:0.465031
+ accel_y:1.365476
+accel_z:1.442519
+accel_x:0.500793
+ accel_y:1.374909
+accel_z:1.463306
+accel_x:0.523701
+ accel_y:1.394428
+accel_z:1.489564
+accel_x:0.491010
+ accel_y:1.413646
+accel_z:1.496524
+accel_x:0.506652
+ accel_y:1.416751
+accel_z:1.504654
+accel_x:0.525996
+ accel_y:1.425935
+accel_z:1.519894
+accel_x:0.540987
+ accel_y:1.444328
+accel_z:1.542360
+accel_x:0.499697
+ accel_y:1.440675
+accel_z:1.524909
+accel_x:0.503775
+ accel_y:1.450670
+accel_z:1.535689
+accel_x:0.527617
+ accel_y:1.456946
+accel_z:1.549578
+accel_x:0.549066
+ accel_y:1.477331
+accel_z:1.576107
+accel_x:0.561540
+ accel_y:1.475193
+accel_z:1.578499
+accel_x:0.583564
+ accel_y:1.481409
+accel_z:1.592254
+accel_x:0.575217
+ accel_y:1.468410
+accel_z:1.577101
+accel_x:0.583986
+ accel_y:1.463742
+accel_z:1.575985
+accel_x:0.541012
+ accel_y:1.483779
+accel_z:1.579375
+accel_x:0.499812
+ accel_y:1.479099
+accel_z:1.561300
+accel_x:0.518579
+ accel_y:1.466172
+accel_z:1.555218
+accel_x:0.524885
+ accel_y:1.445561
+accel_z:1.537942
+accel_x:0.523536
+ accel_y:1.442326
+accel_z:1.534441
+accel_x:0.539149
+ accel_y:1.465867
+accel_z:1.561914
+accel_x:0.558104
+ accel_y:1.463874
+accel_z:1.566697
+accel_x:0.561423
+ accel_y:1.469356
+accel_z:1.573004
+accel_x:0.579444
+ accel_y:1.472219
+accel_z:1.582193
+accel_x:0.530394
+ accel_y:1.487654
+accel_z:1.579417
+accel_x:0.547504
+ accel_y:1.478047
+accel_z:1.576236
+accel_x:0.574875
+ accel_y:1.467667
+accel_z:1.576284
+accel_x:0.587521
+ accel_y:1.469356
+accel_z:1.582510
+accel_x:0.575872
+ accel_y:1.483915
+accel_z:1.591785
+accel_x:0.603186
+ accel_y:1.467735
+accel_z:1.586896
+accel_x:0.544967
+ accel_y:1.475463
+accel_z:1.572931
+accel_x:0.503335
+ accel_y:1.487525
+accel_z:1.570411
+accel_x:0.452500
+ accel_y:1.471409
+accel_z:1.539444
+accel_x:0.420448
+ accel_y:1.450946
+accel_z:1.510661
+accel_x:0.454727
+ accel_y:1.357880
+accel_z:1.432024
+accel_x:0.475208
+ accel_y:1.371687
+accel_z:1.451701
+accel_x:0.493733
+ accel_y:1.374932
+accel_z:1.460926
+accel_x:0.511281
+ accel_y:1.305427
+accel_z:1.402012
+accel_x:0.507289
+ accel_y:1.328310
+accel_z:1.421915
+accel_x:0.608420
+ accel_y:1.285851
+accel_z:1.422573
+accel_x:0.609618
+ accel_y:1.324371
+accel_z:1.457986
+accel_x:0.620183
+ accel_y:1.325641
+accel_z:1.463588
+accel_x:0.626977
+ accel_y:1.349573
+accel_z:1.488151
+accel_x:0.622470
+ accel_y:1.370077
+accel_z:1.504901
+accel_x:0.603691
+ accel_y:1.383369
+accel_z:1.509402
+accel_x:0.621578
+ accel_y:1.412379
+accel_z:1.543156
+accel_x:0.628286
+ accel_y:1.387371
+accel_z:1.523055
+accel_x:0.581092
+ accel_y:1.400931
+accel_z:1.516710
+accel_x:0.590394
+ accel_y:1.409178
+accel_z:1.527904
+accel_x:0.608167
+ accel_y:1.404423
+accel_z:1.530496
+accel_x:0.550660
+ accel_y:1.414252
+accel_z:1.517715
+accel_x:0.562926
+ accel_y:1.410244
+accel_z:1.518486
+accel_x:0.590117
+ accel_y:1.418764
+accel_z:1.536643
+accel_x:0.624510
+ accel_y:1.365371
+accel_z:1.501465
+accel_x:0.633650
+ accel_y:1.378815
+accel_z:1.517497
+accel_x:0.628501
+ accel_y:1.374927
+accel_z:1.511816
+accel_x:0.566405
+ accel_y:1.373216
+accel_z:1.485483
+accel_x:0.577173
+ accel_y:1.380216
+accel_z:1.496080
+accel_x:0.579005
+ accel_y:1.393735
+accel_z:1.509263
+accel_x:0.522021
+ accel_y:1.409261
+accel_z:1.502875
+accel_x:0.527738
+ accel_y:1.432666
+accel_z:1.526812
+accel_x:0.524887
+ accel_y:1.417614
+accel_z:1.511704
+accel_x:0.548001
+ accel_y:1.428594
+accel_z:1.530134
+accel_x:0.574113
+ accel_y:1.444975
+accel_z:1.554895
+accel_x:0.594914
+ accel_y:1.432743
+accel_z:1.551394
+accel_x:0.577290
+ accel_y:1.415007
+accel_z:1.528281
+accel_x:0.567961
+ accel_y:1.432225
+accel_z:1.540773
+accel_x:0.537094
+ accel_y:1.409754
+accel_z:1.508639
+accel_x:0.561452
+ accel_y:1.400633
+accel_z:1.509016
+accel_x:0.557840
+ accel_y:1.408756
+accel_z:1.515225
+accel_x:0.578967
+ accel_y:1.436598
+accel_z:1.548922
+accel_x:0.583085
+ accel_y:1.453382
+accel_z:1.566031
+accel_x:0.558689
+ accel_y:1.456053
+accel_z:1.559602
+accel_x:0.631792
+ accel_y:1.416397
+accel_z:1.550969
+accel_x:0.602522
+ accel_y:1.424716
+accel_z:1.546932
+accel_x:0.592355
+ accel_y:1.447141
+accel_z:1.563729
+accel_x:0.532540
+ accel_y:1.459673
+accel_z:1.553823
+accel_x:0.613374
+ accel_y:1.312917
+accel_z:1.449176
+accel_x:0.586156
+ accel_y:1.335647
+accel_z:1.458648
+accel_x:0.575207
+ accel_y:1.348197
+accel_z:1.465817
+accel_x:0.590668
+ accel_y:1.379217
+accel_z:1.500422
+accel_x:0.595280
+ accel_y:1.374252
+accel_z:1.497686
+accel_x:0.668741
+ accel_y:1.323183
+accel_z:1.482628
+accel_x:0.737554
+ accel_y:1.287848
+accel_z:1.484157
+accel_x:0.751160
+ accel_y:1.245191
+accel_z:1.454276
+accel_x:0.723561
+ accel_y:1.269251
+accel_z:1.461065
+accel_x:0.715997
+ accel_y:1.302747
+accel_z:1.486600
+accel_x:0.666683
+ accel_y:1.323195
+accel_z:1.481712
+accel_x:0.665848
+ accel_y:1.335979
+accel_z:1.492767
+accel_x:0.653213
+ accel_y:1.353270
+accel_z:1.502726
+accel_x:0.647522
+ accel_y:1.381609
+accel_z:1.525874
+accel_x:0.628917
+ accel_y:1.388268
+accel_z:1.524133
+accel_x:0.602533
+ accel_y:1.389779
+accel_z:1.514818
+accel_x:0.576195
+ accel_y:1.369870
+accel_z:1.486160
+accel_x:0.560584
+ accel_y:1.364146
+accel_z:1.474879
+accel_x:0.570820
+ accel_y:1.387401
+accel_z:1.500281
+accel_x:0.529032
+ accel_y:1.402664
+accel_z:1.499151
+accel_x:0.539378
+ accel_y:1.395646
+accel_z:1.496286
+accel_x:0.540788
+ accel_y:1.426112
+accel_z:1.525244
+accel_x:0.562273
+ accel_y:1.413205
+accel_z:1.520996
+accel_x:0.572311
+ accel_y:1.424771
+accel_z:1.535463
+accel_x:0.596154
+ accel_y:1.417607
+accel_z:1.537906
+accel_x:0.606839
+ accel_y:1.438109
+accel_z:1.560950
+accel_x:0.545540
+ accel_y:1.438283
+accel_z:1.538310
+accel_x:0.564982
+ accel_y:1.451852
+accel_z:1.557952
+accel_x:0.539518
+ accel_y:1.441498
+accel_z:1.539195
+accel_x:0.555735
+ accel_y:1.448562
+accel_z:1.551549
+accel_x:0.566162
+ accel_y:1.457274
+accel_z:1.563434
+accel_x:0.568948
+ accel_y:1.457380
+accel_z:1.564544
+accel_x:0.573038
+ accel_y:1.440539
+accel_z:1.550376
+accel_x:0.538623
+ accel_y:1.446063
+accel_z:1.543158
+accel_x:0.555053
+ accel_y:1.438123
+accel_z:1.541561
+accel_x:0.561708
+ accel_y:1.416007
+accel_z:1.523390
+accel_x:0.508713
+ accel_y:1.437870
+accel_z:1.525243
+accel_x:0.533450
+ accel_y:1.453543
+accel_z:1.548379
+accel_x:0.543449
+ accel_y:1.471288
+accel_z:1.568488
+accel_x:0.656364
+ accel_y:1.410834
+accel_z:1.556098
+accel_x:0.648815
+ accel_y:1.415610
+accel_z:1.557268
+accel_x:0.651284
+ accel_y:1.422235
+accel_z:1.564320
+accel_x:0.613998
+ accel_y:1.357159
+accel_z:1.489635
+accel_x:0.612110
+ accel_y:1.375560
+accel_z:1.505652
+accel_x:0.607521
+ accel_y:1.362043
+accel_z:1.491436
+accel_x:0.614326
+ accel_y:1.361003
+accel_z:1.493274
+accel_x:0.594462
+ accel_y:1.364597
+accel_z:1.488503
+accel_x:0.606336
+ accel_y:1.378852
+accel_z:1.506326
+accel_x:0.621341
+ accel_y:1.384217
+accel_z:1.517323
+accel_x:0.592873
+ accel_y:1.395337
+accel_z:1.516114
+accel_x:0.572726
+ accel_y:1.397457
+accel_z:1.510308
+accel_x:0.516089
+ accel_y:1.398649
+accel_z:1.490863
+accel_x:0.510420
+ accel_y:1.388487
+accel_z:1.479367
+accel_x:0.509354
+ accel_y:1.376641
+accel_z:1.467883
